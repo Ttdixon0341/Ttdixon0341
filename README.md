@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/TravisDixon
+[linkedin]: https://linkedin.com/in/travis-dixon-a65882443
